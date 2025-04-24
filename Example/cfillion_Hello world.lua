@@ -1,6 +1,6 @@
 --[[
 @description Test Script
-@version 1.351
+@version 1.352
 @license test
 @author Inversive Audio
 @link https://inversiveaudio.com
@@ -8,6 +8,7 @@
 @provides
    [main=main] cfillion_Hello world.lua
 @changelog
+  - Added a version number for testing
   - Remove Beta context inject function
   - DropDown mode reset last action if no item is hovered
 @about
