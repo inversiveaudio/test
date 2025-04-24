@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Inversive Audio Scripts" commit="19daa8221b3147f380c2ced57d95ca452ee81b41">
+<index version="1" name="Inversive Audio Scripts" commit="75585a69439a4004ba4bdc63bc55a83b079e94ad">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Test Script">
       <metadata>
@@ -69,6 +69,10 @@ DropDown mode reset last action if no item is hovered]]></changelog>
 - Remove Beta context inject function
 - DropDown mode reset last action if no item is hovered]]></changelog>
         <source main="main">https://github.com/inversiveaudio/test/raw/19daa8221b3147f380c2ced57d95ca452ee81b41/Example/cfillion_Hello%20world.lua</source>
+      </version>
+      <version name="1.353" author="Inversive Audio" time="2025-04-24T06:30:28Z">
+        <changelog><![CDATA[- Added a version number for testing yet again]]></changelog>
+        <source main="main">https://github.com/inversiveaudio/test/raw/75585a69439a4004ba4bdc63bc55a83b079e94ad/Example/cfillion_Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
